@@ -16,17 +16,7 @@ app.use(express.json())
 app.use("/url", urlRoute)
 
 
-
-
-
-
-
-
 const PORT = 3000
-
-
-
-
 
 
 
